@@ -1,0 +1,115 @@
+.box {
+  width: 440px;
+  height: 956px;
+}
+
+.box .group {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 440px;
+  height: 956px;
+  display: flex;
+}
+
+.box .iphone-pro-max {
+  width: 440px;
+  height: 956px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.box .logo {
+  position: absolute;
+  top: 7px;
+  left: 4px;
+  width: 436px;
+  height: 66px;
+  aspect-ratio: 6.65;
+  object-fit: cover;
+}
+
+.box .sec {
+  position: absolute;
+  top: 98px;
+  left: 113px;
+  width: 200px;
+  height: 200px;
+  aspect-ratio: 1;
+}
+
+.box .rectangle {
+  position: absolute;
+  top: 345px;
+  left: 39px;
+  width: 352px;
+  height: 76px;
+  background-color: #ff9595;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  top: 356px;
+  left: 57px;
+  width: 374px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .div {
+  position: absolute;
+  top: 446px;
+  left: 79px;
+  width: 272px;
+  height: 53px;
+  background-color: #95e9f2;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  top: 446px;
+  left: 159px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .rectangle-2 {
+  position: absolute;
+  top: 526px;
+  left: 79px;
+  width: 272px;
+  height: 57px;
+  background-color: #e8b3ff;
+}
+
+.box .text-wrapper-3 {
+  position: absolute;
+  top: 526px;
+  left: 143px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .run-figma {
+  position: absolute;
+  top: 637px;
+  left: 79px;
+  width: 281px;
+  height: 220px;
+  aspect-ratio: 1.28;
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="box">
+      <div class="group">
+        <div class="iphone-pro-max-wrapper">
+          <div class="iphone-pro-max">
+            <img class="logo" src="img/logo-1.png" />
+            <img class="sec" src="img/sec-1.png" />
+            <div class="rectangle"></div>
+            <div class="text-wrapper">SPORTS DAY EVENTS</div>
+            <div class="div"></div>
+            <div class="text-wrapper-2">LOGIN</div>
+            <div class="rectangle-2"></div>
+            <div class="text-wrapper-3">REGISTER</div>
+            <img class="run-figma" src="img/run-figma-1.png" />
+          </div>
+        </div>
+        <div class="div-wrapper">
+          <div class="iphone-pro-max-2">
+            <div class="rectangle-3"></div>
+            <div class="text-wrapper-4">SPORTS DAY EVENTS</div>
+            <img class="star" src="img/image.svg" />
+            <img class="img" src="img/star-2.svg" />
+            <img class="star-2" src="img/star-1.svg" />
+            <img class="star-3" src="img/star-3.svg" />
+            <img class="star-4" src="img/star-4.svg" />
+            <img class="star-5" src="img/star-5.svg" />
+            <div class="text-wrapper-5">Cricket</div>
+            <div class="text-wrapper-6">Badmiton</div>
+            <div class="text-wrapper-7">volley ball</div>
+            <div class="text-wrapper-8">Basket ball</div>
+            <div class="text-wrapper-9">200m</div>
+            <img class="star-6" src="img/star-6.svg" />
+            <div class="text-wrapper-10">400m</div>
+            <div class="text-wrapper-11">4*100 Relay</div>
+            <img class="win-figma" src="img/win-figma-1.png" />
+          </div>
+        </div>
+        <div class="group-2">
+          <div class="iphone-pro-max-3">
+            <div class="rectangle-4"></div>
+            <div class="text-wrapper-12">EVENT REGISTRATION FORM</div>
+            <div class="rectangle-5"></div>
+            <div class="rectangle-6"></div>
+            <div class="rectangle-7"></div>
+            <img class="register-no" src="img/register-no.svg" />
+            <div class="rectangle-8"></div>
+            <div class="rectangle-9"></div>
+            <div class="rectangle-10"></div>
+            <div class="text-wrapper-13">Register No</div>
+            <div class="text-wrapper-14">Department</div>
+            <div class="text-wrapper-15">Mobile No</div>
+            <div class="rectangle-11"></div>
+            <img class="WON" src="img/WON-1.png" />
+            <div class="text-wrapper-16">Full name</div>
+            <div class="text-wrapper-17">Gender</div>
+            <div class="text-wrapper-18">Age</div>
+            <div class="text-wrapper-19">SUBMIT</div>
+            <div class="rectangle-12"></div>
+            <div class="text-wrapper-20">Email ID</div>
+            <div class="rectangle-13"></div>
+            <img class="events-registered" src="img/events-registered.svg" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
